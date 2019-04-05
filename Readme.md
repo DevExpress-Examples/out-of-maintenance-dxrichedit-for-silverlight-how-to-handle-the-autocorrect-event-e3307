@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/AutoCorrectEvent/MainPage.xaml) (VB: [MainPage.xaml](./VB/AutoCorrectEvent/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/AutoCorrectEvent/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/AutoCorrectEvent/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/AutoCorrectEvent/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/AutoCorrectEvent/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight: How to handle the AutoCorrect event
 
